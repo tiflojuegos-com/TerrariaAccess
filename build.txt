@@ -1,0 +1,4 @@
+displayName = TerrariaAccess
+author = alisson
+version = 0.1
+dllReferences = TolkDotNet

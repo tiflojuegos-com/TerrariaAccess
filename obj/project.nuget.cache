@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SjWLJvJ/TKfOuWvxv4dmNvM8WQgnlkKny77mB6gGp3mdtz5GoJmpnLQgD2xBJ2/7gIVScf1Su+41TU8qh0NB0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ali-b\\Documents\\My Games\\Terraria\\ModLoader\\Beta\\Mod Sources\\TerrariaAccess\\TerrariaAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ali-b\\.nuget\\packages\\system.speech\\6.0.0\\system.speech.6.0.0.nupkg.sha512",
+    "C:\\Users\\ali-b\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
